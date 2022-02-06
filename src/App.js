@@ -3,7 +3,7 @@ import Card from "./components/card/card";
 
 const App = () => {
   return (
-    <section className="body-main" id="root">
+    <section className="body-main" >
       <Card />
     </section>
   );
