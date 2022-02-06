@@ -19,7 +19,7 @@ const  Card = () => {
                 </div>
                 <div className='elements-text'>
                     <div>
-                    <h1 className='title-main'>Equilibrium #3429</h1>
+                    <h3 className='title-main'>Equilibrium #3429</h3>
                     <p className="text">Our Equilibrium collection promotes balance and calm</p>
                     </div>
                     <div className='pre-footer'>
