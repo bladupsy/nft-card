@@ -10,11 +10,5 @@ body{
   --cyan-color: hsl(178, 100%, 50%);
   font-size: 1.125rem;
   background: var(--main-color);
+  font-weight: 300;
 }
-/* - Mobile: 375px
-- Desktop: 1440px */
-/* .body-main{
-  display: flex;
-  align-items: center;
-} */
-

@@ -1,12 +1,12 @@
-import './App.css';
-import Card from './components/card/card'
+import "./App.css";
+import Card from "./components/card/card";
 
-const  App = () => {
+const App = () => {
   return (
-    <section className='body-main'>
+    <section className="body-main">
       <Card />
     </section>
   );
-}
+};
 
 export default App;
