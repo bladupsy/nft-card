@@ -3,9 +3,9 @@ import Card from "./components/card/card";
 
 const App = () => {
   return (
-    <section className="body-main" >
+    <div className="body-main" >
       <Card />
-    </section>
+    </div>
   );
 };
 
